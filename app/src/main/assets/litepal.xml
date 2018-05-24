@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="HongLouWeather" />
+    <version value = "1"           />
+    <list>
+        <mapping class="com.example.wangb.honglouweather.db.Province"/>
+        <mapping class="com.example.wangb.honglouweather.db.City"    />
+        <mapping class="com.example.wangb.honglouweather.db.County"  />
+    </list>
+</litepal>
